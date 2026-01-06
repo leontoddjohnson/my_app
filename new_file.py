@@ -2,3 +2,5 @@
 
 def func():
     return None
+
+    print("This is a new comment")
